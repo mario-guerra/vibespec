@@ -92,7 +92,7 @@ VibeSpec leverages Azure OpenAI's GPT-4 models to understand your requirements a
 
 The generated TypeSpec code follows best practices and can be directly used with the TypeSpec compiler. The output includes:
 
-- Service definition with versioning.
+- Service definition.
 - Data models with documentation.
 - Operation specifications with parameters and responses.
 - Error handling definitions.
